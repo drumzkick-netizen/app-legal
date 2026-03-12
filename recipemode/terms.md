@@ -17,4 +17,4 @@ The app may use AI services to analyze recipe images or text. Results may not al
 RecipeMode is provided "as is" without warranties of any kind.
 
 ## Contact
-developer@example.com
+drumzkick@gmail.com
