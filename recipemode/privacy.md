@@ -21,4 +21,4 @@ RecipeMode does not sell or share personal data.
 
 ## Contact
 For questions contact:
-developer@example.com
+drumzkick@gmail.com
